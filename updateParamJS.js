@@ -1,10 +1,7 @@
-// make some sort of xhr call to python api
-// store in the variable data
-// log that dat
 
-
-// console.log(data);
-
+// THIS CODE WORKS!!!!!!!! YAYAYAYAYAY
+// allows user to update the parameters of the neural network (i.e. the number of input nodes, hidden nodes, output nodes,
+// and the learning rate
 
 
 
